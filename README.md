@@ -12,7 +12,10 @@ A dynamic Power BI dashboard that analyzes profitability across key business dim
 📎 [**View Dashboard in Power BI**]((https://app.powerbi.com/links/T-mH878PEh?ctid=8a02d135-38fa-41ec-8173-ad618101fc5e&pbi_source=linkShare)) <!-- Replace '#' with actual dashboard link -->
 
 ---
+![**Dashboard Preview**](profitability-dashboard-snip.png)
 
+
+---
 ## 🔍 Objective
 
 To evaluate the financial performance of the company by analyzing profitability across multiple dimensions — including:
