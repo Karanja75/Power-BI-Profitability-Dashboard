@@ -12,7 +12,6 @@ A dynamic Power BI dashboard that analyzes profitability across key business dim
 📎 [**View Dashboard in Power BI**]((https://app.powerbi.com/links/T-mH878PEh?ctid=8a02d135-38fa-41ec-8173-ad618101fc5e&pbi_source=linkShare)) <!-- Replace '#' with actual dashboard link -->
 
 ---
-![**Dashboard Preview**](profitability-dashboard-snip.png)
 
 
 ---
@@ -66,6 +65,8 @@ As a result, leadership initiated reviews targeting:
 
 All with the goal of **boosting net profitability and financial sustainability**.
 
+---
+![**Dashboard Preview**](profitability-dashboard-snip.png)
 ---
 
 > 📍 *Built to empower smarter financial decisions with clear, actionable data.*
