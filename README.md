@@ -1,7 +1,6 @@
 #  📊 PROFITABILITY DASHBOARD FINANCIAL YEARS(2022–2025)
 To evaluate the financial health of the company by analyzing profitability across multiple dimensions.
 
-
 A dynamic Power BI dashboard that analyzes profitability across key business dimensions to assess the financial health of the company.
 
 ---
