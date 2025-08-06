@@ -64,8 +64,11 @@ As a result, leadership initiated reviews targeting:
 
 All with the goal of **boosting net profitability and financial sustainability**.
 
+> 📍 *Built to empower smarter financial decisions with clear, actionable data.*
+---
+📁 [Download Power BI Project File](profitability-dashboard.pbix)
 ---
 ![**Dashboard Preview**](profitability-dashboard-snip.png)
 ---
 
-> 📍 *Built to empower smarter financial decisions with clear, actionable data.*
+
