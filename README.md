@@ -66,7 +66,7 @@ All with the goal of **boosting net profitability and financial sustainability**
 
 > 📍 *Built to empower smarter financial decisions with clear, actionable data.*
 ---
-📁 [Download Power BI Project File](profitability-dashboard.pbix)
+📁 [Download Power BI Project File](profitability-dashboard-2025.pbix)
 ---
 ![**Dashboard Preview**](profitability-dashboard-snip.png)
 ---
