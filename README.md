@@ -8,9 +8,7 @@ A dynamic Power BI dashboard that analyzes profitability across key business dim
 ## 🔧 Tools Used
 - **Power BI**
 
-📎 [**View Dashboard in Power BI**] 
-
-(https://app.powerbi.com/links/T-mH878PEh?ctid=8a02d135-38fa-41ec-8173-ad618101fc5e&pbi_source=linkShare) <!-- Replace '#' with actual dashboard link -->
+📎 [**View Dashboard in Power BI**](https://app.powerbi.com/links/T-mH878PEh?ctid=8a02d135-38fa-41ec-8173-ad618101fc5e&pbi_source=linkShare) <!-- Replace '#' with actual dashboard link -->
 
 ---
 
